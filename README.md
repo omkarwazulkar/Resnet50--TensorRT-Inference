@@ -14,7 +14,7 @@ This project performs high-performance inference with ResNet-50 using TensorRT. 
 
 This notebook instance acts as the **central environment** for model conversion, container image builds, and deployment orchestration.
 
-### **Step 2: Pull NVIDIA TensorRT **
+### **Step 2: Pull NVIDIA TensorRT**
 
 - Authenticate with **NVIDIA NGC** (if required)
 - Pull the official NVIDIA base images:
